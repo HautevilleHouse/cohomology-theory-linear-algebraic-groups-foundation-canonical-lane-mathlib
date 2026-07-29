@@ -1,0 +1,9 @@
+import cohomology_theory_linear_algebraic_groups_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace cohomology_theory_linear_algebraic_groups_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end cohomology_theory_linear_algebraic_groups_foundation_canonical_lane_mathlib
+end HautevilleHouse

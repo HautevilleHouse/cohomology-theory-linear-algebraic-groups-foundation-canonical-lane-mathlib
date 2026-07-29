@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CohomologyTheoryLinearAlgebraicGroupsFoundationCanonicalLaneLean
+
+-- Root module for cohomology theory of linear algebraic groups
+
+end CohomologyTheoryLinearAlgebraicGroupsFoundationCanonicalLaneLean
+end HautevilleHouse
